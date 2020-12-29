@@ -13,3 +13,4 @@ un lettore laserdisc.
 Una volta interpretati i comandi ricevuti dalla seriale il sistema comanda il lettore VLC al fine di visualizzare su uscita composita o hdmi il video.
 Quindi restituisce alla serial i comandi di risposta.
 
+Testato su raspberry PI 1 e 2. con raspian 5. Attenzione VLC deve avere attive le api per HTTP
