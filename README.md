@@ -8,3 +8,8 @@
 # lettore laserdisc con un sistema digitale.
 # Ogni modifica o suggerimento è ben accetto
 
+Il software utilizza una seriale USB collegata la raspberry per ricevere ed inviare i comandi alla scheda o software che crede di dialogare con
+un lettore laserdisc.
+Una volta interpretati i comandi ricevuti dalla seriale il sistema comanda il lettore VLC al fine di visualizzare su uscita composita o hdmi il video.
+Quindi restituisce alla serial i comandi di risposta.
+
