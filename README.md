@@ -7,6 +7,7 @@
 # il progetto non è completo e vuole presentare un idea di utilizzo del sistema VLC + Seriale + raspberry al fine di sostituire il vecchio
 # lettore laserdisc con un sistema digitale.
 # Ogni modifica o suggerimento è ben accetto
+# SUPPORTO PER IL Progetto https://www.patreon.com/xadhoom
 
 Il software utilizza una seriale USB collegata la raspberry per ricevere ed inviare i comandi alla scheda o software che crede di dialogare con
 un lettore laserdisc.
